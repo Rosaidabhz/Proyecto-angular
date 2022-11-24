@@ -1,0 +1,36 @@
+hr {
+    width: 1000px;
+}
+
+.footer__social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+
+}
+
+.footer__media {
+    display: flex;
+
+    width: 20px;
+    height: 20px;
+
+    margin: 0rem 1rem;
+}
+
+.Derechos__Reservados{
+    color: black;
+    font: 'Roboto';
+    text-align: center;
+    margin-left: 2.50rem;
+}
+
+
+.footer__enlace {
+    display: inline-block;
+}
+
+li{
+    list-style-type: none;
+}
