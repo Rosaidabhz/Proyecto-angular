@@ -1,9 +1,9 @@
 hr {
-    width: 1000px;
+    width: 1280px;
     color: black;
-    position:relative;
-    width: 100%;
-
+    display: block;
+    margin-left: 50%;
+    transform: translateX(-50%);
 }
 
 .footer__social {
@@ -36,3 +36,12 @@ hr {
 li{
     list-style-type: none;
 }
+@media screen and (min-width:800px){
+    .hr{
+         max-width: 50px;
+         color: black;
+         margin-left: 50%;
+         transform: translateX(-50%);
+    }
+
+     }
