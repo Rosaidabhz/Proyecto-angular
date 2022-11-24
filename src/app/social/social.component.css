@@ -26,7 +26,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-size: 20px;
-
+    margin-top: 20px;
     color: #000000;
     
 }
@@ -53,6 +53,7 @@
     margin-left: 50%;
     transform: translateX(-50%);
     width: 110px; 
+    margin-top: 20px;
 
 }
 
