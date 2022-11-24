@@ -1,13 +1,15 @@
 hr {
     width: 1000px;
+    color: black;
+    position:relative;
+    width: 100%;
+
 }
 
 .footer__social {
     display: flex;
     justify-content: center;
     align-items: center;
-    width:100%;
-
 }
 
 .footer__media {
@@ -20,10 +22,10 @@ hr {
 }
 
 .Derechos__Reservados{
+    display: flex;
+    justify-content: center;
     color: black;
     font: 'Roboto';
-    text-align: center;
-    margin-left: 2.50rem;
 }
 
 

@@ -40,7 +40,6 @@
 
 .tarjetas__boton--contactanos {
     text-align: center;
-    width: 125px;
     font-size: 1.2rem;
     font-weight: 700;
     color: #502c8e;
@@ -54,7 +53,7 @@
     transform: translateX(-50%);
     width: 110px; 
     margin-top: 20px;
-
+    box-sizing: content-box;
 }
 
 
